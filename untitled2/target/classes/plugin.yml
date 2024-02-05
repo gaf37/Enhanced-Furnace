@@ -1,0 +1,10 @@
+name: Play.minesend.fun
+version: '1.0-SNAPSHOT'
+main: alostor.play.minesend.fun.Play.minesend.fun
+api-version: 1.16
+
+
+commands:
+  funcer:
+    aliases:
+      - des
